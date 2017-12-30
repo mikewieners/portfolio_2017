@@ -213,6 +213,7 @@
     <Content Include="Content\css\grayscale.css" />
     <Content Include="Content\css\grayscale.min.css" />
     <Content Include="Content\font-awesome.min.css" />
+    <Content Include="Content\img\kcmo-header.jpg" />
     <Content Include="favicon.ico" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="Global.asax" />
@@ -277,7 +278,6 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
-    <Folder Include="Content\img\" />
     <Folder Include="Content\js\" />
     <Folder Include="Content\vendor\" />
   </ItemGroup>
